@@ -9,6 +9,7 @@
         <webroots>
           <root url="file://$MODULE_DIR$/StockWatcher/war" relative="/" />
         </webroots>
+        <sourceRoots />
       </configuration>
     </facet>
     <facet type="gwt" name="GWT">
@@ -19,7 +20,10 @@
   </component>
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
-    <content url="file://$MODULE_DIR$" />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/StockWatcher/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/StockWatcher/test" isTestSource="false" />
+    </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="gwt-user" level="project" />

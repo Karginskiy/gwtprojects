@@ -46,7 +46,6 @@ Network Trash Folder
 Temporary Items
 .apdisk
 *.classpath
-*.xml
 StockWatcher/gwt-unitCache/gwt-unitCache-774c994cc41e44a71d2833e5e14c5ecf8d6d181a-0000015881585F1F
 StockWatcher/gwt-unitCache/gwt-unitCache-774c994cc41e44a71d2833e5e14c5ecf8d6d181a-00000158817267A3
 /StockWatcher/gwt-unitCache/
@@ -59,4 +58,10 @@ StockWatcher/gwt-unitCache/gwt-unitCache-774c994cc41e44a71d2833e5e14c5ecf8d6d181
 /StockWatcher/.idea/
 /StockWatcher/war/stockwatcher/
 /StockWatcher/war/WEB-INF/
-/StockWatcher/war/
+*.iml
+.idea/libraries/gwt_user.xml
+.idea/compiler.xml
+/.idea/
+StockWatcher/build.xml
+.idea/gwtprojects.iml
+/StockWatcher/war/favicon.ico
